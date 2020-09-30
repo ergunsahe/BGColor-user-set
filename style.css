@@ -1,0 +1,25 @@
+.container {
+    margin: 30% 0% 5% 40%;
+}
+#explanation {
+    border: 1px solid gray;
+    width: 100px ;
+    height: 25px;
+    margin: 5px;
+    background-color: white;
+    padding-left: 15px;
+}
+
+#btn {
+    margin: 5px;
+    padding: 5px;
+}
+
+#mottoColor {
+    border: 1px solid gray;
+    width: 100px ;
+    height: 25px;
+    margin: 5px;
+    background-color: white;
+    padding-left: 15px;
+}  
